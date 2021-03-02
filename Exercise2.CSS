@@ -1,0 +1,129 @@
+.jumbotron {
+    background-color: rgb(161, 255, 208);
+   
+    color: rgb(255, 0, 0);
+    position: relative;
+    bottom: 7px;
+    font-family:"gruppo";
+    width: 1950px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.head {
+    background-color: rgb(0, 0, 0);
+    color: red;
+    width: 1950px;
+    font-family: "gruppo";
+    font-size: x-large;
+}
+.phone {
+    max-width: 100%;
+    max-height: auto;
+    width: 10%;
+    position: relative;
+    left: 1000px;
+    bottom: 150px;
+}
+.head2 {
+    position: relative;
+    bottom: 30px;
+}
+.para1 {
+    position: relative;
+    bottom: 20px;
+    font-size: large;
+}
+#store {
+    max-width: 100%;
+    max-height: auto;
+    width: 10%;
+    position: relative;
+    right: 120px;
+    top: 65px;
+}
+.discover {
+    position: relative;
+    left: 280px;
+    top: 10px;
+    max-width: 100%;
+    height: auto;
+    width: 100%;
+    font-family: "gruppo";
+}
+.paralast {
+    position: relative;
+    right: 115px;
+    font-size: large;
+    top: 25px;
+}
+.parafour {
+    position: relative;
+    right: 100px;
+    top: 50px;
+}
+.paraone {
+    position: relative;
+    left: 120px;
+    top: 50px;
+}
+.Pin {
+    position: relative;
+    left: 80px;
+    top: 20px;
+    max-width: 100%;
+    height: auto;
+    width: 100%;
+    font-family: "gruppo";
+}
+#magnify {
+    max-width: 100%;
+    max-height: auto;
+    width: 15%;
+    position: relative;
+    right: 1130px;
+    bottom: 170px;
+}
+#heartt {
+    max-width: 100%;
+    max-height: auto;
+    width: 20%;
+    position: relative;
+    right: 820px;
+    bottom: 178px;
+}
+#share {
+    max-width: 100%;
+    max-height: auto;
+    width: 15%; 
+    position: relative;
+    right: 355px;
+    bottom: 180px;
+    
+   
+}
+.foot {
+    background-color: rgb(0, 0, 0);
+    position: relative;
+    top: 53px;
+    color: white;
+    text-align: center;
+    width: 1950px;
+}
+.copy {
+    font-size: x-small;
+}
+.grid {
+    max-width: 100%;
+    height: auto;
+    width: 100%;
+}
+.containerr {
+    
+    height: auto;
+    width: 1900px;
+}
+.sharee {
+    font-family: "gruppo";
+    
+}
